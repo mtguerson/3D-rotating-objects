@@ -5,7 +5,7 @@
 - Matheus Tavares Guerson
 
 ## **Institution**
-FACOM - Federal University of Mato Grosso do Sul (UFMS)
+FACOM - Federal University of Mato Grosso do Sul - (UFMS)
 
 ## **Contact**
 - Email: rafael.oshiro@ufms.br, mathes.guerson@ufms.br
