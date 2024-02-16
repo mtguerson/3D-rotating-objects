@@ -1,4 +1,4 @@
-# **3D Object Creation with OpenGL: Part 2**
+# **3D Object Creation with OpenGL**
 
 ## **Authors**
 - Rafael Eitaró Oshiro
