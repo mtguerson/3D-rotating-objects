@@ -8,8 +8,7 @@
 FACOM - Federal University of Mato Grosso do Sul (UFMS)
 
 ## **Contact**
-- Email: rafael.oshiro@ufms.br
-- Email: mathes.guerson@ufms.br
+- Email: rafael.oshiro@ufms.br, mathes.guerson@ufms.br
 
 ---
 
